@@ -140,7 +140,7 @@ CSV export includes:
 npm install
 npm run dev
 
-![App Screenshot](assets/csv.png)
+![App Screenshot](assets/CSV.png)
 
 
 
