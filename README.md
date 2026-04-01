@@ -135,6 +135,10 @@ CSV export includes:
 - CSS animations
 
 ---
+## 🌐 Live Demo
+
+Try the game online: https://hci-cg-human-motor-performance-lab.vercel.app/
+
 
 ## ▶️ Run Locally
 
