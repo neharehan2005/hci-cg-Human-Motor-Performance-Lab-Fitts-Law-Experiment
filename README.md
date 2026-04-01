@@ -140,7 +140,7 @@ CSV export includes:
 npm install
 npm run dev
 
-![App Screenshot](src/assets/CSV.png)
+![App Screenshot](https://github.dev/neharehan2005/hci-cg-Human-Motor-Performance-Lab-Fitts-Law-Experiment/blob/main/src/assets/CSV.png)
 
 
 
