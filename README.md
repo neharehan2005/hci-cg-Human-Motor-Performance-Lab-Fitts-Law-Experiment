@@ -81,6 +81,7 @@ ID = log₂(D / W + 1)
   - Fitts’ Law parameters (a, b)
   - Throughput (bps)
 - 📥 CSV export for experimental data
+- ![App Screenshot](https://github.dev/neharehan2005/hci-cg-Human-Motor-Performance-Lab-Fitts-Law-Experiment/blob/main/src/assets/CSV.png)
 
 ---
 
@@ -140,7 +141,7 @@ CSV export includes:
 npm install
 npm run dev
 
-![App Screenshot](https://github.dev/neharehan2005/hci-cg-Human-Motor-Performance-Lab-Fitts-Law-Experiment/blob/main/src/assets/CSV.png)
+
 
 
 
