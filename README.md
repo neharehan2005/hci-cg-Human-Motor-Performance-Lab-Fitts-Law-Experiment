@@ -140,8 +140,7 @@ CSV export includes:
 npm install
 npm run dev
 
-
-<img width="823" height="491" alt="CSV" src="https://github.com/user-attachments/assets/d8e5a07a-2769-4be0-89c8-08c985c064ca" />
+![App Screenshot](assets/csv.png)
 
 
 
