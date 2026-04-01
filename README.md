@@ -81,7 +81,7 @@ ID = log₂(D / W + 1)
   - Fitts’ Law parameters (a, b)
   - Throughput (bps)
 - 📥 CSV export for experimental data
-- ![App Screenshot](src/assests/CSV.png)
+- ![App Screenshot](https://raw.githubusercontent.com/neharehan2005/hci-cg-Human-Motor-Performance-Lab-Fitts-Law-Experiment/main/src/assets/CSV.png)
 
 ---
 
