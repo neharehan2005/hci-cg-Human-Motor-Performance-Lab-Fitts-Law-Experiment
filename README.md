@@ -80,6 +80,7 @@ ID = log₂(D / W + 1)
 - 📈 Automatic calculation of:
   - Fitts’ Law parameters (a, b)
   - Throughput (bps)
+- 🎨 Three selectable themes: Cyber, Mario, Space
 - 📥 CSV export for experimental data
 - ![App Screenshot](https://raw.githubusercontent.com/neharehan2005/hci-cg-Human-Motor-Performance-Lab-Fitts-Law-Experiment/main/src/assets/CSV.png)
 
